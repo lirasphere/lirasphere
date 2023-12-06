@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi there 👋  I am Lira.
 - 🔭 I’m currently working on Creating my site, and Learn English.
 - 🌱 I’m currently learning coding basics. I'm very beginner.
 - 🤔 I’m looking for help with comfortable place.
