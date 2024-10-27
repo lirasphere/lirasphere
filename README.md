@@ -1,6 +1,5 @@
 # Hi there 👋  I am Lira.
 特に何かしているわけではない人ですが、ぼちぼち色んなこと（コード内容や英語など）を勉強してます。<br>
-プログラミング知識はゼロなので、基本はStarしたりForkさせていただいたりしています。よろしくお願いします。<br>
 
 - 🔭 I’m currently working on Creating my site, and Learn English.
 - 🌱 I’m currently learning coding basics. I'm very beginner.
